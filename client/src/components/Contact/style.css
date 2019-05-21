@@ -1,0 +1,91 @@
+.card-title {
+  margin-bottom: 38px !important;
+}
+
+@media screen and (max-width: 39.9375em) {
+
+  b, strong {
+    font-size: 19px !important;
+  }
+
+  .card-panel {
+    max-height: 410px;
+  }
+
+  .col.s3 {
+    display: none;
+    width: 0px;
+  }
+
+  .row .col.s9 {
+    width: 100%;
+    margin-left: auto;
+    left: auto;
+    right: auto;
+  }
+
+  .black-text {
+    overflow: auto;
+  }
+}
+
+@media screen and (min-width: 80em) {
+
+  b, strong {
+    font-size: 20px !important;
+  }
+
+  .tabs .tab a {
+    font-size: 18px;
+  }
+
+  .black-text {
+    font-size: 15px;
+  }
+
+}
+
+@media screen and (min-width: 100em) {
+
+  b, strong {
+    font-size: 21px !important;
+  }
+
+  .tabs .tab a {
+    font-size: 20px;
+  }
+
+  .black-text {
+    font-size: 20px;
+  }
+
+}
+
+@media screen and (min-width: 120em) {
+
+  b, strong {
+    font-size: 23px !important;
+  }
+
+  .tabs .tab a {
+    font-size: 22px;
+  }
+
+  .circle {
+    max-height: 320px;
+    max-width: 320px;
+  }
+
+  .row .col.s9 {
+    max-height: 300px;
+  }
+
+  .card-panel {
+    max-height: 400px;
+  }
+
+  .black-text {
+    font-size: 24px;
+  }
+
+}

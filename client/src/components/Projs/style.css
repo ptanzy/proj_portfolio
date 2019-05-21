@@ -1,0 +1,26 @@
+.fa {
+  padding:  15px;
+  font-size: 30px;
+  width: 55px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 15px;
+  transition: 0.35s;
+}
+
+.fa:hover {
+  opacity: 0.7;
+  width: 100;
+  transform: scale(1.1);
+}
+
+.fa-linkedin {
+  color: #ffffff;
+  background: #007bb5;
+}
+
+.fa-instagram {
+  color: #ffffff;
+  background: #125688;
+}
+

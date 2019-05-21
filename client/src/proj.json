@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "image": "../../assets/images/trivia.png",
+    "url": "https://ptanzy.github.io/TriviaGame/",
+    "blurb": "TriviaGame",
+    "color": "grey darken-1"
+  },
+  {
+    "id": 2,
+    "image": "../../assets/images/gify.png",
+    "url": "https://ptanzy.github.io/GifTastic/",
+    "blurb": "GifTastic",    
+    "color": "light-green darken-1"
+  },
+  {
+    "id": 3,
+    "image": "../../assets/images/train.png",
+    "url": "https://ptanzy.github.io/TrainSchedule/",
+    "blurb": "TrainSchedule",
+    "color": "grey darken-4"
+  },
+  {
+    "id": 4,
+    "image": "../../assets/images/news.png",
+    "url": "https://stormy-plains-75691.herokuapp.com/",
+    "blurb": "News'N'One",
+    "color": "brown lighten-5"
+  },
+  {
+    "id": 5,
+    "image": "../../assets/images/clicky.png",
+    "url": "https://ptanzy.github.io/Clicky-Game/",
+    "blurb": "Clicky-Game",
+    "color": "blue-grey darken-2"
+  },
+  {
+    "id": 6,
+    "image": "../../assets/images/gbooks.png",
+    "url": "https://glacial-lowlands-24595.herokuapp.com/",
+    "blurb": "GBooks",
+    "color": "brown lighten-5"
+  }
+]

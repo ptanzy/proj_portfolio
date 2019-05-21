@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "../../assets/images/js.png",
+    "blurb": "Nearly two years professional experience",
+    "color": "blue darken-2"
+  },
+  {
+    "id": 2,
+    "image": "../../assets/images/d3.png",
+    "blurb": "Used for professional project",    
+    "color": "orange lighten-1"
+  },
+  {
+    "id": 3,
+    "image": "../../assets/images/node.png",
+    "blurb": "Used for professional project",
+    "color": "light-green"
+  },
+  {
+    "id": 4,
+    "image": "../../assets/images/express.png",
+    "blurb": "Exposure through certificate",
+    "color": "grey darken-3"
+  },
+  {
+    "id": 5,
+    "image": "../../assets/images/react.png",
+    "blurb": "Exposure through certificate",
+    "color": "light-blue lighten-2"
+  },
+  {
+    "id": 6,
+    "image": "../../assets/images/mongo.png",
+    "blurb": "Exposure through certificate",
+    "color": "green"
+  }
+]
